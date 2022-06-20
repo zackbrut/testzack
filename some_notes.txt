@@ -1,0 +1,6 @@
+# My notes
+
+## June 20th, 2022
+
+- I am not sure I'm actually going to use this system for notes, but following Nico's suggestion last week I should try
+- Nico's recommendation on solidity courses: Patrick Collins
